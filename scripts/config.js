@@ -1,0 +1,15 @@
+exports.config = {
+    usdc: "0x158395BAf9169996b109eDFC9442D7Ab855Cd330",
+    treasury: "0x9a0304029C6Ba647693De72989D747540F1e5267",
+    vault: "0x9a0304029C6Ba647693De72989D747540F1e5267",
+    startTime: "1658341800",
+    endTime: "1658343600",
+    claimTime: "1658344200",
+    softCap: "20",
+    hardCap: "6000000",
+    minPerWallet: "1",
+    maxPerWallet: "10",
+    rate: "40",
+    vestingPeriod: 3600,
+    unvestingGap: 600,
+}
